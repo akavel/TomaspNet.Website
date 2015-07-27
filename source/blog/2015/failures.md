@@ -54,8 +54,8 @@ Introducing the heroes
    that dependently typed languages will make this dream a reality.
 
  - _"But how do you know it works?"_ comes a reply from our second doubtful hero. _"You need to
-   write a specification, or tests!"_ And our second hero becomes even more extreme _"In fact,
-   I will only write new code to fix errors revealed by tests!"_]
+   write a specification, or tests!"_ And our second hero becomes even more extreme: _"In fact,
+   I will only write new code to fix errors revealed by tests!"_
 
  - As our first two heroes start arguing, a third (a bit weird) hero comes in saying _"You both
    really believe you can eliminate all errors?"_ Our two heroes start looking puzzled and the
@@ -75,7 +75,7 @@ Error as a curse: Avoiding errors at all costs
 Many software developers share some of the thoughts with our first hero. Wouldn't it be nice
 if we could _never_ make errors, avoid miscomputations altogether and all software we created
 was fully correct? As we saw in an earlier quote, people only realized that coding errors is
-a significant problem in 1950s. A bit later, in 1960s, the _Alogl research programme_ first
+a significant problem in 1950s. A bit later, in 1960s, the _Algol research programme_ first
 advocated using formal logic to avoid errors:
 
 > <p style="margin-bottom:5px">
